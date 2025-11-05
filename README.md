@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Leah
+I work at the intersection of media and engineering.  
+📫 leahcao118@gmail.com
 
 <!--
 **yecao0118/yecao0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
