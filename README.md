@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Leah
-I work at the intersection of media and engineering.  
+I work at the intersection of engineering and media.  
 
 📫 leahcao118@gmail.com
 
